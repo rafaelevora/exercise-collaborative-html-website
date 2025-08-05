@@ -6,10 +6,7 @@ height: 300px;
 background-size: cover;
 }
 npx http-server --yes -c-1 */
-body {
-  background-color: white;
 
-}
 .skyscraper-background {
   /* Use viewport height (vh) to make it large and responsive. 70vh = 70% of the screen's height. */
   height: 70vh;  /* The next 3 properties ensure the image always looks good */
